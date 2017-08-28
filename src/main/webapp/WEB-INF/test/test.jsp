@@ -1,14 +1,8 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: huangwei
-  Date: 2017/7/5
-  Time: 17:25
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>测试数据</title>
 </head>
 <body>
 
